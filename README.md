@@ -5,3 +5,5 @@ Learning about Version Control
 
 Author: Chun Li
 Student Number: 16136087
+
+Solving merge conflicts is soooooo hard!
